@@ -1,0 +1,2504 @@
+[
+  {
+    "id": 779088,
+    "name": "HUSK Psyllium Mavebalance 225 kaps",
+    "image": "https://images.matas.dk/encode/5702071389972_1.jpg",
+    "brand": "HUSK",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Loppefrøskaller"],
+    "link": "https://www.matas.dk/husk-psyllium-mavebalance-225-kaps"
+  },
+  {
+    "id": 761291,
+    "name": "Matas Striber D-vitamin 70 µg 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592201-592300/592291/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "72,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/matas-striber-d-vitamin-70-mcg-180-tabl"
+  },
+  {
+    "id": 761317,
+    "name": "Matas Striber Fiskeolie 1000 mg 180 kaps.",
+    "image": "https://images.matas.dk/encode/761317_20231101061753.jpg",
+    "brand": "Matas Striber",
+    "price": "229,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/matas-striber-fiskeolie-1000-mg-180-kaps"
+  },
+  {
+    "id": 761341,
+    "name": "Matas Striber Kollagen 833 mg + C-vitamin 27 mg 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/716001-717000/716701-716800/716796/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "137,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpiller"],
+    "link": "https://www.matas.dk/matas-striber-collagen-833-mgc-vitamin-27-mg-100-tabl"
+  },
+  {
+    "id": 796719,
+    "name": "Matas Striber Matas Multivitamin Guld 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/724001-725000/724801-724900/724820/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "114,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/matas-striber-matas-multivitamin-guld-180-tabl"
+  },
+  {
+    "id": 776763,
+    "name": "Unikalk Forte 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/566001-567000/566901-567000/566960/product_v1_x2.jpg",
+    "brand": "Unikalk",
+    "price": "111,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Kalk"],
+    "link": "https://www.matas.dk/unikalk-forte-180-tabl"
+  },
+  {
+    "id": 751148,
+    "name": "Puori M3 Magnesium 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/440001-441000/440001-440100/440048/product_v1_x2.jpg",
+    "brand": "Puori",
+    "price": "279,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Multimineraler"],
+    "link": "https://www.matas.dk/magnesium-m3-puori-180-kaps"
+  },
+  {
+    "id": 758082,
+    "name": "Puori CP1 Collagen 300 g",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/491001-492000/491501-491600/491564/product_v1_x2.jpg",
+    "brand": "Puori",
+    "price": "289,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpulver"],
+    "link": "https://www.matas.dk/puori-cp1-collagen-300g"
+  },
+  {
+    "id": 751149,
+    "name": "Puori Omega-3 O3 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/440001-441000/440001-440100/440044/product_v1_x2.jpg",
+    "brand": "Puori",
+    "price": "304,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hjertet"],
+    "link": "https://www.matas.dk/omega-3-o3-puori-120-kapsler-120-kapsler"
+  },
+  {
+    "id": 760455,
+    "name": "Vild Nord Collagen GOLD 300 g",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/745001-746000/745001-745100/745007/product_v1_x2.jpg",
+    "brand": "Vild Nord",
+    "price": "399,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpulver"],
+    "link": "https://www.matas.dk/vild-nord-collagen-gold-300g"
+  },
+  {
+    "id": 705433,
+    "name": "Femarelle Recharge 56 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/680001-681000/680301-680400/680346/product_v1_x2.jpg",
+    "brand": "Femarelle",
+    "price": "289,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Kosttilskud til kvinder"],
+    "link": "https://www.matas.dk/femarelle-recharge-56-kaps"
+  },
+  {
+    "id": 761340,
+    "name": "Matas Striber Biotin 5 mg 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592309/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "144,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/matas-striber-biotin-5-mg-100-tabl"
+  },
+  {
+    "id": 738234,
+    "name": "Nupo Slim Boost Burn My Fat 30 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/356001-357000/356101-356200/356155/product_v1_x2.jpg",
+    "brand": "Nupo",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Slankekosttilskud"],
+    "link": "https://www.matas.dk/nupo-slim-boost-burn-my-fat-30-kapsler"
+  },
+  {
+    "id": 765259,
+    "name": "Biosym Magnesium+300 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/623001-624000/623301-623400/623346/product_v1_x2.jpg",
+    "brand": "Biosym",
+    "price": "164,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/biosym-magnesium300-180-kaps"
+  },
+  {
+    "id": 761316,
+    "name": "Matas Striber Fiskeolie 1000 mg 140 kaps.",
+    "image": "https://images.matas.dk/encode/761316_20231031102202.jpg",
+    "brand": "Matas Striber",
+    "price": "139,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/matas-striber-fiskeolie-1000-mg-140-kaps"
+  },
+  {
+    "id": 761324,
+    "name": "Matas Striber Loppefrøskaller 225 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/595001-596000/595101-595200/595137/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "124,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Loppefrøskaller"],
+    "link": "https://www.matas.dk/matas-striber-loppefroeskaller-225-kaps"
+  },
+  {
+    "id": 731700,
+    "name": "Biosym Omnimin 360 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/623001-624000/623301-623400/623338/product_v1_x2.jpg",
+    "brand": "Biosym",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/biosym-omnimin-360-tabl"
+  },
+  {
+    "id": 727894,
+    "name": "Pharma Nord Bio-Quinone Aktivt Q10 Gold 100 mg 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761293/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "719,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Q10"],
+    "link": "https://www.matas.dk/bio-quinone-aktivt-q10-gold-100-mg-180-kaps"
+  },
+  {
+    "id": 789872,
+    "name": "Solaray Magnesium Citrat 270 kaps",
+    "image": "https://images.matas.dk/encode/789872.jpg",
+    "brand": "Solaray",
+    "price": "309,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/solaray_789872"
+  },
+  {
+    "id": 761288,
+    "name": "Matas Striber C-vitamin Depot 500 mg 200 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/631001-632000/631601-631700/631666/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "94,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "C-vitamin"],
+    "link": "https://www.matas.dk/matas-striber-c-vitamin-depot-500-mg-200-tabl"
+  },
+  {
+    "id": 680337,
+    "name": "Solaray Multidophilus 24 60 kaps.",
+    "image": "https://images.matas.dk/encode/680337.jpg",
+    "brand": "Solaray",
+    "price": "329,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/multidophilus-24-60-kap"
+  },
+  {
+    "id": 722596,
+    "name": "Kids Zoo Omega-3 60 stk.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/664001-665000/664301-664400/664373/product_v1_x2.jpg",
+    "brand": "Kids Zoo",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Øvrige børnevitaminer"],
+    "link": "https://www.matas.dk/kids-zoo-omega-3-60-stk"
+  },
+  {
+    "id": 761298,
+    "name": "Matas Striber Kalk 400 mg + Magnesium 100 mg + D-vitamin 10 µg 150 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592334/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "104,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Kalk"],
+    "link": "https://www.matas.dk/matas-striber-kalk-400-mgd3-10-mcgmagnesium-100-mg-150-tabl"
+  },
+  {
+    "id": 818390,
+    "name": "Aminojern AminoJern Ferrochel 25 mg 100 tabl",
+    "image": "https://images.matas.dk/encode/818390.jpg",
+    "brand": "Aminojern",
+    "price": "179,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Jern"],
+    "link": "https://www.matas.dk/aminojern-aminojern-ferrochel-25-mg-100-tabl-100-tabl"
+  },
+  {
+    "id": 583753,
+    "name": "Biosym Symbioflor+ 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/623001-624000/623301-623400/623326/product_v1_x2.jpg",
+    "brand": "Biosym",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/symbioflor-180-kap"
+  },
+  {
+    "id": 590448,
+    "name": "Kids Zoo Mulitvitamin Kids Jordbær 60 stk.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/311001-312000/311701-311800/311786/product_v1_x2.jpg",
+    "brand": "Kids Zoo",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Multivitaminer til børn"],
+    "link": "https://www.matas.dk/kids-zoo-mulitvitamin-gele-bjoern-60-tab"
+  },
+  {
+    "id": 805482,
+    "name": "Matas Striber Hair & Nails Vitamins Gummies 60 stk.",
+    "image": "https://images.matas.dk/encode/805482.jpg",
+    "brand": "Matas Striber",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til neglene"],
+    "link": "https://www.matas.dk/matas-striber-matas-gummies-hair-skin-nails-60-stk"
+  },
+  {
+    "id": 583704,
+    "name": "Solaray All Omega 3-6-9 180 kaps.",
+    "image": "https://images.matas.dk/encode/076280292312_20231103114016.jpg",
+    "brand": "Solaray",
+    "price": "429,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Andre kosttilskudsolier", "Omega Kombinationer"],
+    "link": "https://www.matas.dk/all-omega-3-6-9-180-kap"
+  },
+  {
+    "id": 761320,
+    "name": "Matas Striber Mælkesyrebakterier 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592401-592500/592411/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "232,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/matas-striber-maelkesyrebakterier-basis-180-kaps"
+  },
+  {
+    "id": 799178,
+    "name": "Solaray Magnesium Glycinate 120 kaps",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/706001-707000/706001-706100/706057/product_v1_x2.jpg",
+    "brand": "Solaray",
+    "price": "239,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/solaray-magnesium-glycinate-120-kaps"
+  },
+  {
+    "id": 997268,
+    "name": "Solaray Spektro 50+ 100 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/754001-755000/754801-754900/754802/product_v1_x2.jpg",
+    "brand": "Solaray",
+    "price": "269,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/spektro2-u-jern-og-vit-k-multi-vita-min-100-kap"
+  },
+  {
+    "id": 590570,
+    "name": "Fitness Pharma Fiskeolie 200 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/253001-254000/253201-253300/253291/product_v1_x2.jpg",
+    "brand": "Fitness Pharma",
+    "price": "134,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/fiskeolie-fitness-pharma-200-kap"
+  },
+  {
+    "id": 776769,
+    "name": "Unikalk 38µg D-vitamin 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/566001-567000/566901-567000/566966/product_v1_x2.jpg",
+    "brand": "Unikalk",
+    "price": "111,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/unikalk-38g-d-vit-180-tabl"
+  },
+  {
+    "id": 798951,
+    "name": "VitaYummy Hair & Nails Raspberry 60 stk.",
+    "image": "https://images.matas.dk/encode/798951_20231026093209.jpg",
+    "brand": "VitaYummy",
+    "price": "119,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til neglene"],
+    "link": "https://www.matas.dk/vitayummy-hair-nails-raspberry-60-stk"
+  },
+  {
+    "id": 654692,
+    "name": "Dansk Farmaceutisk Industri B12 Vitamin 500 mcg 90 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/750001-751000/750301-750400/750313/product_v1_x2.jpg",
+    "brand": "Dansk Farmaceutisk Industri",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "B-vitamin", "B12 vitamin"],
+    "link": "https://www.matas.dk/b12-vitamin-500-mcg-90-tab"
+  },
+  {
+    "id": 761336,
+    "name": "Matas Striber B12 1 mg 100 sugetabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592308/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "139,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "B-vitamin", "B12 vitamin"],
+    "link": "https://www.matas.dk/matas-striber-b12-1-mg-100-tabl"
+  },
+  {
+    "id": 244317,
+    "name": "Salus Floradix Kräuterblut 500 ml",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/589001-590000/589501-589600/589588/product_v1_x2.jpg",
+    "brand": "Salus",
+    "price": "259,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Jern"],
+    "link": "https://www.matas.dk/floradix-krauterblut-urte-jern-mikstur-sa-500-ml"
+  },
+  {
+    "id": 593100,
+    "name": "Pharma Nord D-Pearls 38 mcg 240 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761274/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/d-pearls-38-mcg-240-kapsler"
+  },
+  {
+    "id": 761290,
+    "name": "Matas Striber D-vitamin 40 µg 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592201-592300/592287/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "67,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/matas-striber-d-vitamin-40-mcg-180-tabl"
+  },
+  {
+    "id": 761303,
+    "name": "Matas Striber Magnesium 200 mg 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592376/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "69,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/matas-striber-magnesium-200-mg-100-tabl"
+  },
+  {
+    "id": 593115,
+    "name": "Pharma Nord Bio-Quinone Aktivt Q10 Gold 100 mg 90 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761278/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "419,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Q10"],
+    "link": "https://www.matas.dk/bio-quinone-q10-gold-100mg-6030-kapsler"
+  },
+  {
+    "id": 760371,
+    "name": "Solaray Magnesium Citrat 250 mg 180 kaps.",
+    "image": "https://images.matas.dk/encode/760371.jpg",
+    "brand": "Solaray",
+    "price": "249,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/solaray-magnesium-citrat-250-mg-180-kaps-180-kaps"
+  },
+  {
+    "id": 820028,
+    "name": "Matas Striber B-vitaminer 100 tabl.",
+    "image": "https://images.matas.dk/encode/820028_20231004063936.jpg",
+    "brand": "Matas Striber",
+    "price": "79,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "B-vitamin", "Øvrige"],
+    "link": "https://www.matas.dk/matas-striber-matas-b-vitaminer-100-tabl"
+  },
+  {
+    "id": 779089,
+    "name": "HUSK Psyllium Mavebalance 450 g",
+    "image": "https://images.matas.dk/encode/5702071420934_1.jpg",
+    "brand": "HUSK",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Loppefrøskaller"],
+    "link": "https://www.matas.dk/husk-psyllium-mavebalance-450-g"
+  },
+  {
+    "id": 764467,
+    "name": "Livol Vitaminbjørne Original 75 stk.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/723001-724000/723401-723500/723450/product_v1_x2.jpg",
+    "brand": "Livol",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Øvrige børnevitaminer"],
+    "link": "https://www.matas.dk/livol-vitaminbjoerne-original"
+  },
+  {
+    "id": 638320,
+    "name": "Puori Vitamin D3 Kokos 62,5 mcg 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/606001-607000/606301-606400/606332/product_v1_x2.jpg",
+    "brand": "Puori",
+    "price": "139,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/d3-kokos-puori-120-kap"
+  },
+  {
+    "id": 761306,
+    "name": "Matas Striber Zink 8 mg 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592385/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "67,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Zink"],
+    "link": "https://www.matas.dk/matas-striber-zink-8-mg-100-tabl"
+  },
+  {
+    "id": 798949,
+    "name": "VitaYummy Adults Multi Strawberry 60 stk.",
+    "image": "https://images.matas.dk/encode/798949_20231026093229.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/vitayummy-adults-multi-strawberry-60-stk"
+  },
+  {
+    "id": 570113,
+    "name": "Imedeen Prime Renewal 50+ 120 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/602001-603000/602501-602600/602537/product_v1_x2.jpg",
+    "brand": "Imedeen",
+    "price": "548,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til huden"],
+    "link": "https://www.matas.dk/imedeen-prime-renewal-120-tabletter"
+  },
+  {
+    "id": 761287,
+    "name": "Matas Striber C-vitamin 500 mg 200 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/636001-637000/636601-636700/636640/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "94,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "C-vitamin"],
+    "link": "https://www.matas.dk/matas-striber-c-vitamin-500-mg-200-tabl"
+  },
+  {
+    "id": 761297,
+    "name": "Matas Striber Kalk 400 mg + D-vitamin 35 µg 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592332/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "104,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Kalk"],
+    "link": "https://www.matas.dk/matas-striber-kalk-400-mgd3-35-mcg-180-tabl"
+  },
+  {
+    "id": 793777,
+    "name": "Matas Striber Rødkløver 120 kaps.",
+    "image": "https://images.matas.dk/encode/793777.jpg",
+    "brand": "Matas Striber",
+    "price": "209,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Rødkløver"],
+    "link": "https://www.matas.dk/matas-striber-matas-roedkloever-120-kaps"
+  },
+  {
+    "id": 629527,
+    "name": "Fitness Pharma Tranebærkapsler 100 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/215001-216000/215601-215700/215691/product_v1_x2.jpg",
+    "brand": "Fitness Pharma",
+    "price": "109,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Tranebær"],
+    "link": "https://www.matas.dk/tranebaerkapsler-fitness-pharma-100-kap"
+  },
+  {
+    "id": 805479,
+    "name": "Matas Striber Multivitamin Gummies 60 stk.",
+    "image": "https://images.matas.dk/encode/805479.jpg",
+    "brand": "Matas Striber",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/matas-striber-matas-gummies-multivitamin-60-stk"
+  },
+  {
+    "id": 756048,
+    "name": "Pharma Nord Cholessin Rød Gærris 120 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761295/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "189,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Øvrige kosttilskud"],
+    "link": "https://www.matas.dk/pharma-nord-cholessin-roed-gaerris-120-tabl"
+  },
+  {
+    "id": 703325,
+    "name": "Pharma Nord D-Pearls 80 mcg 80 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761266/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/d-pearls-80-mcg-80-kaps"
+  },
+  {
+    "id": 720803,
+    "name": "Bodylab Omega3 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/686001-687000/686101-686200/686180/product_v1_x2.jpg",
+    "brand": "Bodylab",
+    "price": "109,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/bodylab-omega3-120-stk-200-g"
+  },
+  {
+    "id": 761332,
+    "name": "Matas Striber Silica Plus 300 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592401-592500/592417/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "172,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Silica"],
+    "link": "https://www.matas.dk/matas-striber-silica-plus-300-tabl"
+  },
+  {
+    "id": 636626,
+    "name": "Herrens Mark Rødkløverekstrakt bag-in-box Ø 2 l",
+    "image": "https://images.matas.dk/encode/636626_20231026093206.jpg",
+    "brand": "Herrens Mark",
+    "price": "419,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Overgangsalder"],
+    "link": "https://www.matas.dk/roedkloever-ekstrakt-oe-bag-in-box-herrens-mark-2-l"
+  },
+  {
+    "id": 735189,
+    "name": "Mezina Man Power 90 tabl",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/589001-590000/589601-589700/589667/product_v1_x2.jpg",
+    "brand": "Mezina",
+    "price": "299,95 kr.",
+    "categories": ["Mænd", "Krop & Helse", "Kosttilskud"],
+    "link": "https://www.matas.dk/mezina-man-power-90-tabl"
+  },
+  {
+    "id": 618598,
+    "name": "Solaray C-vitamin 500 mg 180 veg. kaps.",
+    "image": "https://images.matas.dk/encode/076280613742_20231018143205.jpg",
+    "brand": "Solaray",
+    "price": "209,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "C-vitamin"],
+    "link": "https://www.matas.dk/c-vitamin-500-mg-180-kap"
+  },
+  {
+    "id": 920601,
+    "name": "Udo's Choice Super-Adult (16-65 år) 60 kaps.",
+    "image": "https://images.matas.dk/encode/920601.jpg",
+    "brand": "Udo's Choice",
+    "price": "279,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/udos-choice-super-adult-fra-16-65-aar-mae-60-kap"
+  },
+  {
+    "id": 805483,
+    "name": "Matas Striber Omega 3 Gummies 60 stk.",
+    "image": "https://images.matas.dk/encode/805483.jpg",
+    "brand": "Matas Striber",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/matas-striber-matas-gummies-omega-3-60-stk"
+  },
+  {
+    "id": 761289,
+    "name": "Matas Striber D-vitamin 10 µg 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592201-592300/592284/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "62,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/matas-striber-d-vitamin-10-mcg-180-tabl"
+  },
+  {
+    "id": 797418,
+    "name": "Matas Striber Kollagenpulver + C vitamin 80 mg 150 g",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/736001-737000/736001-736100/736051/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "229,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpulver"],
+    "link": "https://www.matas.dk/matas-striber-matas-kollagenpulver-c-vitamin-80-mg-150-gr"
+  },
+  {
+    "id": 761323,
+    "name": "Matas Striber Loppefrøskaller 450 g",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592357/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "89,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Fiber"],
+    "link": "https://www.matas.dk/matas-striber-loppefroeskaller-450-g"
+  },
+  {
+    "id": 624975,
+    "name": "Beauté Pacifique La Forte 60 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/551001-552000/551001-551100/551019/product_v1_x2.jpg",
+    "brand": "Beauté Pacifique",
+    "price": "399,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til huden"],
+    "link": "https://www.matas.dk/beaute-pacifique-la-forte-kosttilskud-60-tabletter"
+  },
+  {
+    "id": 810520,
+    "name": "Biosym OmniOmega EPA-GLA+ 240 kaps",
+    "image": "https://images.matas.dk/encode/810520.jpg",
+    "brand": "Biosym",
+    "price": "284,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/biosym-omniomega-epa-gla-240-kaps_810520"
+  },
+  {
+    "id": 761338,
+    "name": "Matas Striber Magnesium Citrat 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592401-592500/592430/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "119,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/matas-striber-magneisum-citrat-100-kaps"
+  },
+  {
+    "id": 796388,
+    "name": "Multi-tabs Woman 50+ 60 tabl.",
+    "image": "https://images.matas.dk/encode/5054563127808_1.jpg",
+    "brand": "Multi-tabs",
+    "price": "103,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/multi-tabs-woman-50-tabletter-60-stk"
+  },
+  {
+    "id": 787757,
+    "name": "Pharma Nord Bio-Selen + Zink 90 tabl",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761248/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "189,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Zink"],
+    "link": "https://www.matas.dk/pharma-nord-bio-selen-zink-90-tabl"
+  },
+  {
+    "id": 636826,
+    "name": "Dansk Farmaceutisk Industri Vitamin D3, 90 mcg  120 kaps. 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/216001-217000/216001-216100/216038/product_v1_x2.jpg",
+    "brand": "Dansk Farmaceutisk Industri",
+    "price": "119,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/d3-vitamin-90-mcg-120-kap"
+  },
+  {
+    "id": 705117,
+    "name": "Semper D-vitamin dråber 10 ml",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/407001-408000/407601-407700/407642/product_v1_x2.jpg",
+    "brand": "Semper",
+    "price": "239,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "D-vitamin til børn"],
+    "link": "https://www.matas.dk/semper-biogaia-d-draaber-10-ml"
+  },
+  {
+    "id": 818956,
+    "name": "Hyben Vital Pulver Vegetabilske Kapsler 250 kaps.",
+    "image": "https://images.matas.dk/encode/818956.jpg",
+    "brand": "Hyben Vital",
+    "price": "259,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Knogler, Led & Muskler"],
+    "link": "https://www.matas.dk/hyben-vital-pulver-veg-kapsler-250-kaps"
+  },
+  {
+    "id": 761315,
+    "name": "Matas Striber Fiskeolie 1000 mg 120 kaps.",
+    "image": "https://images.matas.dk/encode/761315_20231031133725.jpg",
+    "brand": "Matas Striber",
+    "price": "189,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/matas-striber-fiskeolie-1000-mg-120-kaps"
+  },
+  {
+    "id": 714471,
+    "name": "Natur Drogeriet Curcuma Black m. gurkemeje og sort peber 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/278001-279000/278501-278600/278537/product_v1_x2.jpg",
+    "brand": "Natur Drogeriet",
+    "price": "214,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Gurkemeje"],
+    "link": "https://www.matas.dk/curcuma-black-m-gurkemeje-og-sort-peber"
+  },
+  {
+    "id": 582250,
+    "name": "Pharma Nord Bio-Magnesium 200 mg 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761289/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/bio-magnesium-200-mg-120-tabl"
+  },
+  {
+    "id": 798950,
+    "name": "VitaYummy Kids Multi Strawberry 60 stk.",
+    "image": "https://images.matas.dk/encode/798950_20231026093204.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Multivitaminer til børn"],
+    "link": "https://www.matas.dk/vitayummy-kids-multi-strawberry-60-stk"
+  },
+  {
+    "id": 736885,
+    "name": "Membrasin Vitality Pearls 90 kaps",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/351001-352000/351501-351600/351559/product_v1_x2.jpg",
+    "brand": "Membrasin",
+    "price": "329,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "A-vitamin"],
+    "link": "https://www.matas.dk/membrasin-vitality-pearls-90-kaps"
+  },
+  {
+    "id": 776771,
+    "name": "Unikalk Overgangsalder 90 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/566001-567000/566901-567000/566968/product_v1_x2.jpg",
+    "brand": "Unikalk",
+    "price": "163,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Overgangsalder"],
+    "link": "https://www.matas.dk/unikalk-overgangsalder-90-tabl"
+  },
+  {
+    "id": 705046,
+    "name": "Mablet Depottablet 60 stk.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/279001-280000/279201-279300/279251/product_v1_x2.jpg",
+    "brand": "Mablet",
+    "price": "72,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/mablet-depottablet-60-stk"
+  },
+  {
+    "id": 761286,
+    "name": "Matas Striber C-vitamin 500 mg 20 brusetabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592201-592300/592275/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "32,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "C-vitamin"],
+    "link": "https://www.matas.dk/matas-striber-c-vitamin-500-mg-20-brusetabl"
+  },
+  {
+    "id": 761296,
+    "name": "Matas Striber Kalk 400 mg + D-vitamin 20 µg 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592330/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "104,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Kalk"],
+    "link": "https://www.matas.dk/matas-striber-kalk-400-mgd3-20-mcg-180-tabl"
+  },
+  {
+    "id": 812644,
+    "name": "Priorin Kosttilskudd for håret 60 kaps",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/768001-769000/768901-769000/768981/product_v1_x2.jpg",
+    "brand": "Priorin",
+    "price": "399,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/priorin-kosttilskudd-for-haaret-60-kaps"
+  },
+  {
+    "id": 764469,
+    "name": "Livol Vitaminbjørne D-vitamin 75 stk.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/723001-724000/723401-723500/723452/product_v1_x2.jpg",
+    "brand": "Livol",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "D-vitamin til børn"],
+    "link": "https://www.matas.dk/livol-vitaminbjoerne-d-vitamin"
+  },
+  {
+    "id": 761302,
+    "name": "Matas Striber Jern Hæmoglobin 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592342/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "79,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Jern"],
+    "link": "https://www.matas.dk/matas-striber-jern-haemoglobin-100-tabl"
+  },
+  {
+    "id": 767105,
+    "name": "Eskio-3 Pure Omega-3 250 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/519001-520000/519301-519400/519354/product_v1_x2.jpg",
+    "brand": "Eskio-3",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/eskio-3-pure-omega-3-250-kapsler"
+  },
+  {
+    "id": 795741,
+    "name": "VitaYummy Collagen Tropical 60 stk.",
+    "image": "https://images.matas.dk/encode/795741_20231024192002.jpg",
+    "brand": "VitaYummy",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen"],
+    "link": "https://www.matas.dk/vitayummy-collagen-tropical-60-stk"
+  },
+  {
+    "id": 499897,
+    "name": "Pharma Nord Bio-Marin Plus 150 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761257/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "259,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/bio-marin-plus-150-kapsler"
+  },
+  {
+    "id": 956916,
+    "name": "Solaray D3 Vitamin 30 mcg 100 kaps.",
+    "image": "https://images.matas.dk/encode/076280224283_20231103113937.jpg",
+    "brand": "Solaray",
+    "price": "109,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/d-vitamin-30-mcg-100-kap"
+  },
+  {
+    "id": 570196,
+    "name": "Pharma Nord Multivitamin 150 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761283/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "259,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/multivitamin-pharma-nord-150-tabl"
+  },
+  {
+    "id": 590481,
+    "name": "Solaray Spektro Multi-Vita-Min 300 kaps.",
+    "image": "https://images.matas.dk/encode/076280846270.jpg",
+    "brand": "Solaray",
+    "price": "549,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/spektro-multi-vita-min-300-kap"
+  },
+  {
+    "id": 805481,
+    "name": "Matas Striber Kalk 100 mg + D-vitamin 5 µg Gummies 60 stk.",
+    "image": "https://images.matas.dk/encode/805481.jpg",
+    "brand": "Matas Striber",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/matas-striber-matas-gummies-calcium-vitamin-d-60-stk"
+  },
+  {
+    "id": 776761,
+    "name": "Unikalk Silver 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/566001-567000/566901-567000/566958/product_v1_x2.jpg",
+    "brand": "Unikalk",
+    "price": "111,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/unikalk-silver-180-tabl"
+  },
+  {
+    "id": 788257,
+    "name": "Wild Nutrition Food-Grown Bone Complex 90 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/636001-637000/636501-636600/636507/product_v1_x2.jpg",
+    "brand": "Wild Nutrition",
+    "price": "239,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Knogler, Led & Muskler"],
+    "link": "https://www.matas.dk/wild-nutrition_788257"
+  },
+  {
+    "id": 921415,
+    "name": "Berthelsen Silica Extra 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/341001-342000/341101-341200/341125/product_v1_x2.jpg",
+    "brand": "Berthelsen",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Silica"],
+    "link": "https://www.matas.dk/silica-extra-berthelsen-60-kap"
+  },
+  {
+    "id": 788128,
+    "name": "Pikasol Anti-opstød 90 stk",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/654001-655000/654901-655000/654979/product_v1_x2.jpg",
+    "brand": "Pikasol",
+    "price": "139,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/pikasol-anti-opstoed-90-stk"
+  },
+  {
+    "id": 782970,
+    "name": "Drogens Vital Hud, Hår & Negle 160 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/755001-756000/755101-755200/755155/product_v1_x2.jpg",
+    "brand": "Drogens Vital",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til neglene"],
+    "link": "https://www.matas.dk/drogens-vital-hud-haar-negle-160-stk"
+  },
+  {
+    "id": 761295,
+    "name": "Matas Striber Kalk 400 mg + D-vitamin 5 µg 300 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592328/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "124,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Kalk"],
+    "link": "https://www.matas.dk/matas-striber-kalk-400-mg-d-vitamin-5-g-300-tabl"
+  },
+  {
+    "id": 771801,
+    "name": "New Nordic Collagen & Hyaluronsyre Beauty Powder 360 g",
+    "image": "https://images.matas.dk/encode/771801_1.jpg",
+    "brand": "New Nordic",
+    "price": "484,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpulver"],
+    "link": "https://www.matas.dk/new-nordic-collagen-hyaluronsyre-beauty-powder-360g"
+  },
+  {
+    "id": 718332,
+    "name": "New Nordic Hair Volume Gummies 60 stk.",
+    "image": "https://images.matas.dk/encode/718332_1.jpg",
+    "brand": "New Nordic",
+    "price": "204,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/hair-volume-gummies-60-stk"
+  },
+  {
+    "id": 798232,
+    "name": "Pikasol Kolesterol balance 130 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/714001-715000/714801-714900/714816/product_v1_x2.jpg",
+    "brand": "Pikasol",
+    "price": "139,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Kolesterol"],
+    "link": "https://www.matas.dk/pikasol-kolesterol-balance-130-stk"
+  },
+  {
+    "id": 649792,
+    "name": "Medic Wiotech ZinCuFlex 60 kaps.",
+    "image": "https://images.matas.dk/encode/649792_20231024192339.jpg",
+    "brand": "Medic Wiotech",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Gurkemeje"],
+    "link": "https://www.matas.dk/zincuflex-60-kap"
+  },
+  {
+    "id": 806548,
+    "name": "Nature's Own CoQ10 Multi Wholefood 60 kaps.",
+    "image": "https://images.matas.dk/encode/806548.jpg",
+    "brand": "Nature's Own",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Q10"],
+    "link": "https://www.matas.dk/natures-own-coq10-multi-wholefood-60-kaps"
+  },
+  {
+    "id": 479110,
+    "name": "Pharma Nord Bio-SelenoPrecise 150 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761251/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "179,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Selen"],
+    "link": "https://www.matas.dk/selenoprecise-150-tabl"
+  },
+  {
+    "id": 817713,
+    "name": "Biorto Total Gurkedol Move 90 kaps",
+    "image": "https://images.matas.dk/encode/817713.jpg",
+    "brand": "Biorto",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Gurkemeje"],
+    "link": "https://www.matas.dk/biorto-total-gurkedol-move-90-kaps"
+  },
+  {
+    "id": 621422,
+    "name": "Fitness Pharma Fiskeolie med ingefær 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/312001-313000/312401-312500/312492/product_v1_x2.jpg",
+    "brand": "Fitness Pharma",
+    "price": "134,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/fisk-m-ingefaer-fitness-pharma-180-kap"
+  },
+  {
+    "id": 590486,
+    "name": "Natur Energi Krillivita 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/754001-755000/754801-754900/754803/product_v1_x2.jpg",
+    "brand": "Natur Energi",
+    "price": "239,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Andre kosttilskudsolier", "Krill Olie"],
+    "link": "https://www.matas.dk/krillivita-unik-omega-3-500-mg-60-kap"
+  },
+  {
+    "id": 760449,
+    "name": "Vild Nord COLLAGEN CLEAN PROTEIN 300 g",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/745001-746000/745001-745100/745003/product_v1_x2.jpg",
+    "brand": "Vild Nord",
+    "price": "329,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpulver"],
+    "link": "https://www.matas.dk/vild-nord-collagen-clean-protein-300g"
+  },
+  {
+    "id": 803855,
+    "name": "Biosym OmniKalk Forte 180 kaps",
+    "image": "https://images.matas.dk/encode/803855.jpg",
+    "brand": "Biosym",
+    "price": "429,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Kalk"],
+    "link": "https://www.matas.dk/biosym-omnikalk-forte-180-kaps"
+  },
+  {
+    "id": 761318,
+    "name": "Matas Striber Fiskeolie m/ingefær 1000 mg 90 kaps.",
+    "image": "https://images.matas.dk/encode/761318_20231030144723.jpg",
+    "brand": "Matas Striber",
+    "price": "179,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Ingefær"],
+    "link": "https://www.matas.dk/matas-striber-fiskeolie-mingefaer-1000-mg-120-kaps"
+  },
+  {
+    "id": 761293,
+    "name": "Matas Striber Kalk 400 mg 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592324/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Kalk"],
+    "link": "https://www.matas.dk/matas-striber-kalk-400-mg-180-tabl"
+  },
+  {
+    "id": 792278,
+    "name": "Pureviva Marine Collagen 270 kaps.",
+    "image": "https://images.matas.dk/encode/792278.jpg",
+    "brand": "Pureviva",
+    "price": "204,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpiller"],
+    "link": "https://www.matas.dk/pureviva-marine-collagen-270-kaps"
+  },
+  {
+    "id": 618513,
+    "name": "Solaray All Energy 120 tabl.",
+    "image": "https://images.matas.dk/encode/618513.jpg",
+    "brand": "Solaray",
+    "price": "309,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Energi", "Øvrige"],
+    "link": "https://www.matas.dk/all-energy-120-tab"
+  },
+  {
+    "id": 784358,
+    "name": "Gerimax Everyday Energy (50+) 240 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/634001-635000/634701-634800/634707/product_v1_x2.jpg",
+    "brand": "Gerimax",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Energi", "Øvrige"],
+    "link": "https://www.matas.dk/gerimax-everyday-energy-50-240-stk"
+  },
+  {
+    "id": 777859,
+    "name": "Hemojern 75 stk",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/566001-567000/566901-567000/566954/product_v1_x2.jpg",
+    "brand": "Hemojern",
+    "price": "109,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Jern"],
+    "link": "https://www.matas.dk/longo-vital-hemojern-75-stk"
+  },
+  {
+    "id": 807260,
+    "name": "Natur Drogeriet Loppefrøskaller 500 g",
+    "image": "https://images.matas.dk/encode/807260.jpg",
+    "brand": "Natur Drogeriet",
+    "price": "134,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Loppefrøskaller"],
+    "link": "https://www.matas.dk/natur-drogeriet-loppefroeskaller-500-g"
+  },
+  {
+    "id": 664468,
+    "name": "Dansk Farmaceutisk Industri Vegetabilsk Omega-3® 180 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/366001-367000/366601-366700/366653/product_v1_x2.jpg",
+    "brand": "Dansk Farmaceutisk Industri",
+    "price": "429,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Synet"],
+    "link": "https://www.matas.dk/omega-3-vegetabilsk-algeolie-180-kap"
+  },
+  {
+    "id": 590449,
+    "name": "Kids Zoo®  Kalk + D vitamin 60 stk.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/357001-358000/357101-357200/357134/product_v1_x2.jpg",
+    "brand": "Kids Zoo",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "D-vitamin til børn"],
+    "link": "https://www.matas.dk/kids-zoo-kalk-d-60-tab"
+  },
+  {
+    "id": 761301,
+    "name": "Matas Striber Jern Gravid 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592339/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "84,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Vitaminer til gravide"],
+    "link": "https://www.matas.dk/matas-striber-jern-gravid-100-tabl"
+  },
+  {
+    "id": 791326,
+    "name": "Matas Striber Mælkesyrebakterier Tygbar 60 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/724001-725000/724801-724900/724812/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "124,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/matas-striber-maelkesyrebakterier-tygbar-60-tabl"
+  },
+  {
+    "id": 761305,
+    "name": "Matas Striber Selen 110 µg 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592383/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "84,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Selen"],
+    "link": "https://www.matas.dk/matas-striber-selen-110-mcg-100-tabl"
+  },
+  {
+    "id": 619519,
+    "name": "Nordic Naturals Nordic Natural Omega-3 473 ml",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/262001-263000/262401-262500/262474/product_v1_x2.jpg",
+    "brand": "Nordic Naturals",
+    "price": "499,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/omega-3-mcitrussmag-473-ml"
+  },
+  {
+    "id": 676295,
+    "name": "Puori Synbiotics SB3 30 breve",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/400001-401000/400301-400400/400370/product_v1_x2.jpg",
+    "brand": "Puori",
+    "price": "339,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/synbiotics-sb3-30-sticks-a-45-gr-purepha-135-g"
+  },
+  {
+    "id": 761327,
+    "name": "Matas Striber Ingefær 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592364/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "249,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Ingefær"],
+    "link": "https://www.matas.dk/matas-striber-ingefaer-120-kaps"
+  },
+  {
+    "id": 787761,
+    "name": "Berocca Energy Orange 30 tabl",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/634001-635000/634701-634800/634757/product_v1_x2.jpg",
+    "brand": "Berocca",
+    "price": "134,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Energi", "Øvrige"],
+    "link": "https://www.matas.dk/berocca-energy-orange-30-tabl"
+  },
+  {
+    "id": 281352,
+    "name": "Resium Urteekstrakt 1000 ml",
+    "image": "https://images.matas.dk/encode/281352.jpg",
+    "brand": "Resium",
+    "price": "349,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Urter"],
+    "link": "https://www.matas.dk/resium-1-l"
+  },
+  {
+    "id": 674757,
+    "name": "Dansk Farmaceutisk Industri Vitamin K2  90 mcg - 90 tabl. 90 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/100001-200000/192001-193000/192801-192900/192848/product_v1_x2.jpg",
+    "brand": "Dansk Farmaceutisk Industri",
+    "price": "289,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "K-vitamin"],
+    "link": "https://www.matas.dk/k2-vitamin-90-mcg-vegetabilsk-90-tab"
+  },
+  {
+    "id": 998481,
+    "name": "Solaray FemiBalance 100 kaps.",
+    "image": "https://images.matas.dk/encode/076280765182_20231103113938.jpg",
+    "brand": "Solaray",
+    "price": "234,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Overgangsalder"],
+    "link": "https://www.matas.dk/femi-balance-100-kap"
+  },
+  {
+    "id": 818397,
+    "name": "Nupo Slim Boost Calorie Fighter 30 tabl",
+    "image": "https://images.matas.dk/encode/818397.jpg",
+    "brand": "Nupo",
+    "price": "104,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Slankekosttilskud"],
+    "link": "https://www.matas.dk/nupo-slim-boost-calorie-fighter-30-tabl"
+  },
+  {
+    "id": 465682,
+    "name": "AVIVIR Aloe Vera Drik Naturel 1000 ml",
+    "image": "https://images.matas.dk/encode/465682.jpg",
+    "brand": "AVIVIR",
+    "price": "239,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Immunforsvar"],
+    "link": "https://www.matas.dk/avivir-aloe-vera-drikke-naturel-1-l"
+  },
+  {
+    "id": 807500,
+    "name": "Longo Vital 50+ Multivitamin 120 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/768001-769000/768601-768700/768689/product_v1_x2.jpg",
+    "brand": "Longo Vital",
+    "price": "79,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/longo-vital-50-120-stk"
+  },
+  {
+    "id": 182699,
+    "name": "Möllers Tran Møllers Tran med citrus 250 ml",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/652001-653000/652101-652200/652115/product_v1_x2.jpg",
+    "brand": "Möllers Tran",
+    "price": "119,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/moellers-tran-med-citrus-omega-3-250-ml"
+  },
+  {
+    "id": 761334,
+    "name": "Matas Striber Q10 Co-enzym 30 mg 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592401-592500/592422/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Q10"],
+    "link": "https://www.matas.dk/matas-striber-q10-co-enzym-30-mg-120-kaps"
+  },
+  {
+    "id": 798952,
+    "name": "VitaYummy Hair & Nails Peach 60 stk",
+    "image": "https://images.matas.dk/encode/798952_20231026093208.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til neglene"],
+    "link": "https://www.matas.dk/vitayummy-hair-nails-peach-60-stk"
+  },
+  {
+    "id": 759182,
+    "name": "Australian Bodycare Hair Loss Care Kosttilskud 60 kapsler",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/532001-533000/532101-532200/532144/product_v1_x2.jpg",
+    "brand": "Australian Bodycare",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/australian-bodycare-hair-loss-care-kosttilskud-60-kapsler-60-kapsler"
+  },
+  {
+    "id": 865605,
+    "name": "Natur Drogeriet Rød Ginseng 90 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/724001-725000/724001-724100/724010/product_v1_x2.jpg",
+    "brand": "Natur Drogeriet",
+    "price": "164,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Ginseng"],
+    "link": "https://www.matas.dk/roed-ginseng-90-kap"
+  },
+  {
+    "id": 738232,
+    "name": "Vitabalans Oy Biotin Strong 60 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/356001-357000/356001-356100/356099/product_v1_x2.jpg",
+    "brand": "Vitabalans Oy",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/vitabalans-oy-biotin-strong-60-tabl"
+  },
+  {
+    "id": 592488,
+    "name": "Nordic Naturals omega-3 237 ml",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/566001-567000/566301-566400/566375/product_v1_x2.jpg",
+    "brand": "Nordic Naturals",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/omega-3-mcitrussmag-237-ml"
+  },
+  {
+    "id": 578361,
+    "name": "Pharma Nord D-Pearls 20 mcg 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761270/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "104,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/d-pearls-20-mcg-120-kapsler"
+  },
+  {
+    "id": 769256,
+    "name": "Livol Multivitamin Børn Frugtsmag 150 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/525001-526000/525401-525500/525495/product_v1_x2.jpg",
+    "brand": "Livol",
+    "price": "114,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Multivitaminer til børn"],
+    "link": "https://www.matas.dk/livol-multivitamin-boern-frugtsmag-150-tabl"
+  },
+  {
+    "id": 813482,
+    "name": "Livol Basis Multi Vitamin Voksen 230 tabl.",
+    "image": "https://images.matas.dk/encode/5702071500209.jpg",
+    "brand": "Livol",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/livol-basis-multi-vitamin-voksen-230-tabl"
+  },
+  {
+    "id": 820190,
+    "name": "Matas Striber Multivitamin Vegansk 180 tabl.",
+    "image": "https://images.matas.dk/encode/820190_20231024192028.jpg",
+    "brand": "Matas Striber",
+    "price": "114,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/matas-striber-matas-multivitamin-vegansk-180-tabl"
+  },
+  {
+    "id": 629526,
+    "name": "Fitness Pharma Q10 m/fiskeolie 150 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/1-100000/99001-100000/99801-99900/99879/product_v1_x2.jpg",
+    "brand": "Fitness Pharma",
+    "price": "134,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/q10-m-fiskeolie-fitness-pharma-150-kap"
+  },
+  {
+    "id": 664740,
+    "name": "Natur Drogeriet Biotin 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/561001-562000/561901-562000/561963/product_v1_x2.jpg",
+    "brand": "Natur Drogeriet",
+    "price": "69,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/mega-biotin-100-tab"
+  },
+  {
+    "id": 568830,
+    "name": "Pharma Nord Bio-Chrom 100 mcg 60 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761255/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Chrom"],
+    "link": "https://www.matas.dk/bio-chrom-60-tabl"
+  },
+  {
+    "id": 758477,
+    "name": "Puori C3 Vitamin brusetabl. 20 stk.",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/442001-443000/442401-442500/442476/product_v1_x2.jpg",
+    "brand": "Puori",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "C-vitamin"],
+    "link": "https://www.matas.dk/puori-vitamin-c3-brusetabl-20-stk_758477"
+  },
+  {
+    "id": 792986,
+    "name": "Biosym MoveFlex Collagen 60 kaps",
+    "image": "https://images.matas.dk/encode/792986.jpg",
+    "brand": "Biosym",
+    "price": "364,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til huden"],
+    "link": "https://www.matas.dk/biosym-moveflex-collagen-60-kaps"
+  },
+  {
+    "id": 590488,
+    "name": "New Nordic Blue Berry Øjenvitamin 240 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/278001-279000/278401-278500/278496/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "449,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Blåbær"],
+    "link": "https://www.matas.dk/blue-berry-oejenvit-plus-10-mg-240-tab"
+  },
+  {
+    "id": 817384,
+    "name": "VitaYummy Calcium & Vitamin D 60 stk.",
+    "image": "https://images.matas.dk/encode/817384_20231026093237.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/vitayummy-calcium-vitamin-d-60-stk_817384"
+  },
+  {
+    "id": 621420,
+    "name": "Fitness Pharma Ingefær m/gurkemeje 250 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/249001-250000/249401-249500/249497/product_v1_x2.jpg",
+    "brand": "Fitness Pharma",
+    "price": "134,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Gurkemeje"],
+    "link": "https://www.matas.dk/ingefaer-m-gurkemeje-fitness-pharma-250-tab"
+  },
+  {
+    "id": 817406,
+    "name": "New Nordic Hair Volume Post Menopause 90 tabl",
+    "image": "https://images.matas.dk/encode/817406_20231013103941.jpg",
+    "brand": "New Nordic",
+    "price": "756,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/new-nordic-hair-volume-menopause-90-tabl"
+  },
+  {
+    "id": 136743,
+    "name": "Strath Dråber 100 ml",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/397001-398000/397001-397100/397080/product_v1_x2.jpg",
+    "brand": "Strath",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Urter"],
+    "link": "https://www.matas.dk/bio-strath-draaber-100-ml"
+  },
+  {
+    "id": 809017,
+    "name": "SylliFlor Psyllium Husks 500 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/739001-740000/739501-739600/739567/product_v1_x2.jpg",
+    "brand": "SylliFlor",
+    "price": "144,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Loppefrøskaller"],
+    "link": "https://www.matas.dk/sylliflor-psyllium-husk-500-kaps"
+  },
+  {
+    "id": 802807,
+    "name": "Matas Striber Multivitamin Børn m. sukker 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761101-761200/761159/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "109,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Multivitaminer til børn"],
+    "link": "https://www.matas.dk/matas-striber-matas-multivitamin-boern-m-sukker-180-tabletter"
+  },
+  {
+    "id": 761319,
+    "name": "Matas Striber Torskelevertran 500 ml",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592401-592500/592410/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "147,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Andre kosttilskudsolier", "Torskelevertran ", " Omega-3"],
+    "link": "https://www.matas.dk/matas-striber-torskelevertran-500-ml"
+  },
+  {
+    "id": 818395,
+    "name": "Nupo Slim Boost Collagen Beauty & Burn 15 stk",
+    "image": "https://images.matas.dk/encode/818395.jpg",
+    "brand": "Nupo",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Slankekosttilskud"],
+    "link": "https://www.matas.dk/nupo-slim-boost-collagen-beauty-burn-15-stk"
+  },
+  {
+    "id": 520972,
+    "name": "Dansk Farmaceutisk Industri D-Vitamin 35 mcg 120 kapsler 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/277001-278000/277201-277300/277209/product_v1_x2.jpg",
+    "brand": "Dansk Farmaceutisk Industri",
+    "price": "109,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/d-vitamin-35-mcg-120-kap"
+  },
+  {
+    "id": 621755,
+    "name": "New Nordic Collagen Filler 60 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/676001-677000/676101-676200/676154/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "242,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpiller"],
+    "link": "https://www.matas.dk/skin-care-collagen-filler-60-tab"
+  },
+  {
+    "id": 622937,
+    "name": "New Nordic Tranebærpillen 30 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/376001-377000/376901-377000/376975/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "87,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Tranebær"],
+    "link": "https://www.matas.dk/new-nordic-tranebaerpillen-30-tabl"
+  },
+  {
+    "id": 779576,
+    "name": "Longo Vital Energi 180 stk",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/589001-590000/589901-590000/589984/product_v1_x2.jpg",
+    "brand": "Longo Vital",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/longo-vital-energi-180-stk"
+  },
+  {
+    "id": 784233,
+    "name": "VitaYummy Magnesium 60 stk.",
+    "image": "https://images.matas.dk/encode/784233_20231026093226.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/vitayummy-magnesium-60-stk"
+  },
+  {
+    "id": 807501,
+    "name": "Longo Vital Classic Multivitamin 120 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/768001-769000/768601-768700/768688/product_v1_x2.jpg",
+    "brand": "Longo Vital",
+    "price": "79,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/longo-vital-classic-120-stk"
+  },
+  {
+    "id": 761339,
+    "name": "Matas Striber Kalk 400 mg + Magnesium 100 mg + D-vitamin 10 µg + K-vitamin 37,5 µg 150 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592366/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "129,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Kalk"],
+    "link": "https://www.matas.dk/matas-striber-kalk-med-dkmagnesium-150-tabl"
+  },
+  {
+    "id": 718278,
+    "name": "New Nordic Hair Gro 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/303001-304000/303501-303600/303538/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "319,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/hair-gro-60-kaps"
+  },
+  {
+    "id": 817382,
+    "name": "VitaYummy Omega 3 Lemon 60 stk.",
+    "image": "https://images.matas.dk/encode/817382_20231026093218.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/vitayummy-omega-3-lemon-60-stk"
+  },
+  {
+    "id": 824693,
+    "name": "Biosym Mælkesyrebakterier 160 kaps",
+    "image": "https://images.matas.dk/encode/824693_20231026123254.jpg",
+    "brand": "Biosym",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/biosym-symbioflor-160-kaps"
+  },
+  {
+    "id": 796384,
+    "name": "Multi-tabs Man 50+ 60 tabl.",
+    "image": "https://images.matas.dk/encode/5054563127884_1.jpg",
+    "brand": "Multi-tabs",
+    "price": "103,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/multi-tabs-man-50-tabletter-60-stk"
+  },
+  {
+    "id": 820956,
+    "name": "Nani Mælkesyrebakterier til Børn 60 stk",
+    "image": "https://images.matas.dk/encode/820956_1.jpg",
+    "brand": "Nani",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier", "Mælkesyrebakterier til børn"],
+    "link": "https://www.matas.dk/nani-maelkesyrebakterier-til-boern-60-stk"
+  },
+  {
+    "id": 920358,
+    "name": "Solaray Rosenrod 60 veg. kaps.",
+    "image": "https://images.matas.dk/encode/076280903591_20231103113935.jpg",
+    "brand": "Solaray",
+    "price": "329,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Energi", "Øvrige"],
+    "link": "https://www.matas.dk/rosenrod-gp-ekstrakt-500-mg-60-kap"
+  },
+  {
+    "id": 582225,
+    "name": "Solaray Baby-Me-Now 150 tabl.",
+    "image": "https://images.matas.dk/encode/076280173505.jpg",
+    "brand": "Solaray",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Vitaminer til gravide"],
+    "link": "https://www.matas.dk/baby-me-now-multi-vita-min-150-tab"
+  },
+  {
+    "id": 464287,
+    "name": "Pharma Nord Bio-Pycnogenol 90 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761201-761300/761291/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "329,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Kredsløb"],
+    "link": "https://www.matas.dk/bio-pycnogenol-90-tabl"
+  },
+  {
+    "id": 790142,
+    "name": "Biosym OmniOmega Krill Olie 120 kaps",
+    "image": "https://images.matas.dk/encode/790142.jpg",
+    "brand": "Biosym",
+    "price": "409,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Andre kosttilskudsolier", "Omega Kombinationer"],
+    "link": "https://www.matas.dk/biosym-omniomega-krill-olie-120-kaps"
+  },
+  {
+    "id": 997684,
+    "name": "Solaray B12-vitamin med folsyre 90 sugetabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/564001-565000/564301-564400/564386/product_v1_x2.jpg",
+    "brand": "Solaray",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Folsyre"],
+    "link": "https://www.matas.dk/b12-vitamin-med-folsyre-1000-mcg-suget-90-tab"
+  },
+  {
+    "id": 258784,
+    "name": "Pharma Nord Bio-Qinon Q10 30 mg 150 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/722001-723000/722901-723000/722908/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "379,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Q10"],
+    "link": "https://www.matas.dk/bio-qinon-q10-30-mg-150-kapsler"
+  },
+  {
+    "id": 809561,
+    "name": "Livol Multivitamin Voksen 90 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/754001-755000/754801-754900/754899/product_v1_x2.jpg",
+    "brand": "Livol",
+    "price": "59,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/livol-multivitamin-voksen-90-stk"
+  },
+  {
+    "id": 921535,
+    "name": "Solaray Multidophilus mælkefri 100 kaps.",
+    "image": "https://images.matas.dk/encode/921535.jpg",
+    "brand": "Solaray",
+    "price": "209,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/multidophilus-maelkefri-100-kap"
+  },
+  {
+    "id": 796381,
+    "name": "Multi-tabs 50+ 180 tabl.",
+    "image": "https://images.matas.dk/encode/796381.jpg",
+    "brand": "Multi-tabs",
+    "price": "211,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/multi-tabs-50-180-tabl_796381"
+  },
+  {
+    "id": 805480,
+    "name": "Matas Striber Multivitamin Gummies til børn med sødestof 60 stk.",
+    "image": "https://images.matas.dk/encode/805480.jpg",
+    "brand": "Matas Striber",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Multivitaminer til børn"],
+    "link": "https://www.matas.dk/matas-striber-matas-gummies-multivitamin-boern-60-stk"
+  },
+  {
+    "id": 577907,
+    "name": "Berthelsen Naturlig  Zink 20 mg. 120 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/394001-395000/394801-394900/394803/product_v1_x2.jpg",
+    "brand": "Berthelsen",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Zink"],
+    "link": "https://www.matas.dk/zink-20-mg-berthelsen-120-tab"
+  },
+  {
+    "id": 761322,
+    "name": "Matas Striber Mælkesyrebakterier Plus 40 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592401-592500/592413/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/matas-striber-maelkesyrebakterier-plus-40-kaps"
+  },
+  {
+    "id": 644464,
+    "name": "New Nordic Active Liver 120 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/336001-337000/336601-336700/336628/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "549,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Fordøjelse"],
+    "link": "https://www.matas.dk/active-liver-120-tab"
+  },
+  {
+    "id": 590563,
+    "name": "Pharma Nord Bio-Gravid 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/761001-762000/761301-761400/761303/product_v1_x2.jpg",
+    "brand": "Pharma Nord",
+    "price": "269,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Graviditet"],
+    "link": "https://www.matas.dk/bio-gravid-3-x-60-kapsler"
+  },
+  {
+    "id": 715310,
+    "name": "Solaray Fermenteret Turmeric 100 kaps.",
+    "image": "https://images.matas.dk/encode/076280247091_20231103113934.jpg",
+    "brand": "Solaray",
+    "price": "269,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Knogler, Led & Muskler"],
+    "link": "https://www.matas.dk/solaray-fermenteret-turmeric-100-kaps"
+  },
+  {
+    "id": 782971,
+    "name": "Drogens Vital Overgangsalder 60 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/755001-756000/755101-755200/755156/product_v1_x2.jpg",
+    "brand": "Drogens Vital",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Kosttilskud til kvinder"],
+    "link": "https://www.matas.dk/drogens-vital-overgangsalder-60-stk"
+  },
+  {
+    "id": 559309,
+    "name": "Midsona Danmark Garcin 80 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/523001-524000/523901-524000/523962/product_v1_x2.jpg",
+    "brand": "Midsona Danmark",
+    "price": "339,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Hvidløg"],
+    "link": "https://www.matas.dk/anjo-garcin-hvidloeg-m-d3-vitamin-80-kap"
+  },
+  {
+    "id": 714406,
+    "name": "Natur Drogeriet Rødkløver Kapsler 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/724001-725000/724101-724200/724174/product_v1_x2.jpg",
+    "brand": "Natur Drogeriet",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Rødkløver"],
+    "link": "https://www.matas.dk/roedkloever-120-kaps"
+  },
+  {
+    "id": 767106,
+    "name": "Eskio-3 High Concentrate 120 kapsler",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/519001-520000/519301-519400/519356/product_v1_x2.jpg",
+    "brand": "Eskio-3",
+    "price": "339,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/eskio-3-high-concentrate-120-kapsler"
+  },
+  {
+    "id": 181897,
+    "name": "Salus Floradix Krauterblut 250 ml",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/589001-590000/589501-589600/589581/product_v1_x2.jpg",
+    "brand": "Salus",
+    "price": "144,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Jern"],
+    "link": "https://www.matas.dk/floradix-krauterblut-urte-jern-mikstur-sa-250-ml"
+  },
+  {
+    "id": 704559,
+    "name": "New Nordic Hair Volume Nail Strong 60 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/275001-276000/275201-275300/275284/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "319,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/hair-volume-nail-strong-60-tabl"
+  },
+  {
+    "id": 724126,
+    "name": "SylliFlor Loppefrøskaller Kakao 200 g",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/303001-304000/303601-303700/303603/product_v1_x2.jpg",
+    "brand": "SylliFlor",
+    "price": "124,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Loppefrøskaller"],
+    "link": "https://www.matas.dk/sylliflor-kakao-loppefroeskaller-250-g"
+  },
+  {
+    "id": 136751,
+    "name": "Bio-Strath 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/397001-398000/397001-397100/397071/product_v1_x2.jpg",
+    "brand": "Bio-Strath",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Urter"],
+    "link": "https://www.matas.dk/bio-strath-tabletter-100-tab"
+  },
+  {
+    "id": 537306,
+    "name": "Imedeen Time Perfection 120 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/602001-603000/602501-602600/602534/product_v1_x2.jpg",
+    "brand": "Imedeen",
+    "price": "734,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til huden"],
+    "link": "https://www.matas.dk/imedeen-time-perfection-120-tabl"
+  },
+  {
+    "id": 800971,
+    "name": "Livol Collagen Powder stick 30 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/736001-737000/736501-736600/736527/product_v1_x2.jpg",
+    "brand": "Livol",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til huden"],
+    "link": "https://www.matas.dk/livol-collagen-powder-stick-30-stk"
+  },
+  {
+    "id": 270520,
+    "name": "Bidro Vitamin 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/565001-566000/565601-565700/565631/product_v1_x2.jpg",
+    "brand": "Bidro",
+    "price": "259,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Gele Royale"],
+    "link": "https://www.matas.dk/bidro-med-vitaminer-og-mineraler-oe-60-kap"
+  },
+  {
+    "id": 710228,
+    "name": "Biosym OmniQ10 Energy 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/623001-624000/623301-623400/623335/product_v1_x2.jpg",
+    "brand": "Biosym",
+    "price": "249,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Q10"],
+    "link": "https://www.matas.dk/omniq10-energy-60-kaps_710228"
+  },
+  {
+    "id": 764468,
+    "name": "Livol Multi Gummies Vitaminbjørne Cola 75 stk.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/723001-724000/723401-723500/723451/product_v1_x2.jpg",
+    "brand": "Livol",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Øvrige børnevitaminer"],
+    "link": "https://www.matas.dk/livol-vitaminbjoerne-cola"
+  },
+  {
+    "id": 665277,
+    "name": "New Nordic Apple Cider™ 30 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/388001-389000/388201-388300/388201/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "164,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Æbleeddike"],
+    "link": "https://www.matas.dk/aebleciderpillen-30-tab"
+  },
+  {
+    "id": 620271,
+    "name": "Herrens Mark Mælkebøtteekstrakt bag-in-box Ø 2 l",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/760001-761000/760701-760800/760720/product_v1_x2.jpg",
+    "brand": "Herrens Mark",
+    "price": "419,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Fordøjelse"],
+    "link": "https://www.matas.dk/maelkeboette-ekstrakt-oe-bag-in-box-herrens-mar-2-l"
+  },
+  {
+    "id": 761330,
+    "name": "Matas Striber Silica 345 mg 300 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592401-592500/592415/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "117,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Silica"],
+    "link": "https://www.matas.dk/matas-striber-silica-345-mg-300-tabl"
+  },
+  {
+    "id": 781664,
+    "name": "Biosym OmniMINI Multi Bær Vegansk 150 tabl",
+    "image": "https://images.matas.dk/encode/781664.jpg",
+    "brand": "Biosym",
+    "price": "269,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Multivitaminer til børn"],
+    "link": "https://www.matas.dk/biosym-omnimini-multi-150-tabl"
+  },
+  {
+    "id": 769604,
+    "name": "Möllers Tran Omega-3 fisk Jordbær 45 stk",
+    "image": "https://images.matas.dk/encode/769604.jpg",
+    "brand": "Möllers Tran",
+    "price": "119,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hjerne ", " Hukommelse"],
+    "link": "https://www.matas.dk/moellers-tran-omega-3-fisk-jordbaer-45-styk-45-styk"
+  },
+  {
+    "id": 734302,
+    "name": "New Nordic Magnesium malate 270 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/648001-649000/648601-648700/648636/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "329,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/new-nordic-magnesium-270-kaps"
+  },
+  {
+    "id": 699431,
+    "name": "Bodylab Caffeine 200 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/500001-501000/500701-500800/500701/product_v1_x2.jpg",
+    "brand": "Bodylab",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Øvrige kosttilskud"],
+    "link": "https://www.matas.dk/bodylab-caffeine-200-tabletter"
+  },
+  {
+    "id": 779084,
+    "name": "Equazen Chews 360 stk.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/745001-746000/745001-745100/745025/product_v1_x2.jpg",
+    "brand": "Equazen",
+    "price": "569,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/equazen-kosttilskud-360-kaps"
+  },
+  {
+    "id": 703462,
+    "name": "Herrens Mark Rødkløverekstrakt bag-in-box Ø 1 l",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/760001-761000/760701-760800/760736/product_v1_x2.jpg",
+    "brand": "Herrens Mark",
+    "price": "254,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Overgangsalder"],
+    "link": "https://www.matas.dk/roedkloever-ekstrakt-oe-1-l"
+  },
+  {
+    "id": 664563,
+    "name": "New Nordic Clear Brain 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/203001-204000/203401-203500/203425/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "594,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hjerne ", " Hukommelse"],
+    "link": "https://www.matas.dk/clear-brain-180-tab"
+  },
+  {
+    "id": 778626,
+    "name": "Plent Pure Collagen Natural 300 g",
+    "image": "https://images.matas.dk/encode/778626.jpg",
+    "brand": "Plent",
+    "price": "359,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpulver"],
+    "link": "https://www.matas.dk/bodylab-plent-marine-collagen-natural-300-g-300-g"
+  },
+  {
+    "id": 777063,
+    "name": "New Nordic Collagen Shots 15 stk.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/647001-648000/647301-647400/647338/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "364,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til huden"],
+    "link": "https://www.matas.dk/new-nordic-collagen-shots-15-stk"
+  },
+  {
+    "id": 782799,
+    "name": "Asonor Sleep Support 60 tabl",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/612001-613000/612801-612900/612851/product_v1_x2.jpg",
+    "brand": "Asonor",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Søvn"],
+    "link": "https://www.matas.dk/asonor-sleep-support-60-tabl"
+  },
+  {
+    "id": 729097,
+    "name": "Berthelsen Kalium 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/394001-395000/394801-394900/394878/product_v1_x2.jpg",
+    "brand": "Berthelsen",
+    "price": "179,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Jod & Kalium"],
+    "link": "https://www.matas.dk/berthelsen-kalium-60-kaps"
+  },
+  {
+    "id": 577906,
+    "name": "Dansk Farmaceutisk Industri Combi B depottabletter 60 tabl. 60 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/326001-327000/326301-326400/326332/product_v1_x2.jpg",
+    "brand": "Dansk Farmaceutisk Industri",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "B-vitamin", "Øvrige"],
+    "link": "https://www.matas.dk/combi-b-depottablet-60-tab"
+  },
+  {
+    "id": 631031,
+    "name": "Greenish Epsom Salt 1500 g 1,5 kg",
+    "image": "https://images.matas.dk/Assets_v3/1-100000/64001-65000/64201-64300/64211/product_v1_x2.jpg",
+    "brand": "Greenish",
+    "price": "109,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/greenish-epsom-salt-1500-g"
+  },
+  {
+    "id": 920559,
+    "name": "Solaray Zink Citrat 20 mg 60 kaps",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/523001-524000/523801-523900/523828/product_v1_x2.jpg",
+    "brand": "Solaray",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Zink"],
+    "link": "https://www.matas.dk/zink-citrat-20-mg-60-kap"
+  },
+  {
+    "id": 636629,
+    "name": "SylliFlor Loppefrøskaller Vanilje 200 g",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/698001-699000/698201-698300/698240/product_v1_x2.jpg",
+    "brand": "SylliFlor",
+    "price": "149,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Fiber"],
+    "link": "https://www.matas.dk/sylliflor-vanilje-loppefroeskaller-250-g"
+  },
+  {
+    "id": 807503,
+    "name": "Longo Vital Hair & Nails 120 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/768001-769000/768601-768700/768692/product_v1_x2.jpg",
+    "brand": "Longo Vital",
+    "price": "79,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til neglene"],
+    "link": "https://www.matas.dk/longo-vital-hair-nails-120-stk"
+  },
+  {
+    "id": 572809,
+    "name": "New Nordic Blue Berry Plus Øjenvitamin 120 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/277001-278000/277901-278000/277989/product_v1_x2.jpg",
+    "brand": "New Nordic",
+    "price": "439,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Blåbær"],
+    "link": "https://www.matas.dk/blue-berry-oejenvitamin-10-mg-120-tab"
+  },
+  {
+    "id": 811808,
+    "name": "VitaYummy Hair & Nails Rhubarb 60 stk.",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/768001-769000/768501-768600/768542/product_v1_x2.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til neglene"],
+    "link": "https://www.matas.dk/vitayummy-hair-nails-rhubarb-60-stk"
+  },
+  {
+    "id": 759959,
+    "name": "Berthelsen Vegansk Magnesium 240 stk.",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/474001-475000/474401-474500/474469/product_v1_x2.jpg",
+    "brand": "Berthelsen",
+    "price": "319,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/berthelsen-vegansk-magnesium-240-stk-240-stk"
+  },
+  {
+    "id": 593151,
+    "name": "New Nordic Active Liver 60 tabl.",
+    "image": "https://images.matas.dk/encode/593151.jpg",
+    "brand": "New Nordic",
+    "price": "434,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Fordøjelse"],
+    "link": "https://www.matas.dk/active-liver-60-tab"
+  },
+  {
+    "id": 764265,
+    "name": "Puori Multi Vitamin & Mineraler 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/508001-509000/508801-508900/508822/product_v1_x2.jpg",
+    "brand": "Puori",
+    "price": "259,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Energi", "Øvrige"],
+    "link": "https://www.matas.dk/puori-multi-vitamin-mineraler"
+  },
+  {
+    "id": 809735,
+    "name": "VitaYummy Tan & Glow Gummies 60 stk.",
+    "image": "https://images.matas.dk/encode/809735_20231026093227.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Betacaroten"],
+    "link": "https://www.matas.dk/vitayummy-tan-glow-gummies-60-stk"
+  },
+  {
+    "id": 809560,
+    "name": "Livol Multivitamin 50+ 90 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/754001-755000/754801-754900/754897/product_v1_x2.jpg",
+    "brand": "Livol",
+    "price": "59,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/livol-multivitamin-50-90-stk"
+  },
+  {
+    "id": 761300,
+    "name": "Matas Striber Chrom 100 µg 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/636001-637000/636601-636700/636644/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "99,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Chrom"],
+    "link": "https://www.matas.dk/matas-striber-chrom-100-mcg-100-tabl"
+  },
+  {
+    "id": 710578,
+    "name": "Nordic Premium L-Lysin Aminosyre 500 mg. 50 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/403001-404000/403201-403300/403245/product_v1_x2.jpg",
+    "brand": "Nordic Premium",
+    "price": "109,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Aminosyre"],
+    "link": "https://www.matas.dk/l-lysin-aminosyre-500-mg-50-kaps"
+  },
+  {
+    "id": 591958,
+    "name": "Biosym OmniZink 3 120 tabl.",
+    "image": "https://images.matas.dk/encode/591958_20231102140431.jpg",
+    "brand": "Biosym",
+    "price": "104,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Zink"],
+    "link": "https://www.matas.dk/omnizink-3-120-tab"
+  },
+  {
+    "id": 773744,
+    "name": "Bodylab Collagen Booster Ice Tea Peach 150 g",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/555001-556000/555201-555300/555261/product_v1_x2.jpg",
+    "brand": "Bodylab",
+    "price": "229,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpulver"],
+    "link": "https://www.matas.dk/bodylab-collagen-booster-150-g"
+  },
+  {
+    "id": 577265,
+    "name": "Dansk Farmaceutisk Industri B12, 125 mcg, 90 tabl. 90 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/326001-327000/326301-326400/326336/product_v1_x2.jpg",
+    "brand": "Dansk Farmaceutisk Industri",
+    "price": "129,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "B-vitamin", "B12 vitamin"],
+    "link": "https://www.matas.dk/b12-125-mcg-90-tab"
+  },
+  {
+    "id": 764079,
+    "name": "VitaYummy Immune 60 stk.",
+    "image": "https://images.matas.dk/encode/764079_20231026093234.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Immunforsvar"],
+    "link": "https://www.matas.dk/vitayummy-immune-60-stk"
+  },
+  {
+    "id": 796377,
+    "name": "Multi-tabs Kids Tyggetabletter Hindbær/Jordbær 90 stk.",
+    "image": "https://images.matas.dk/encode/5054563126078_1.jpg",
+    "brand": "Multi-tabs",
+    "price": "114,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "Multivitaminer til børn"],
+    "link": "https://www.matas.dk/multi-tabs-kids-tyggetabletter-90-stk-hindbaerjordbaer"
+  },
+  {
+    "id": 638131,
+    "name": "Puori Omega-3 O3 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/400001-500000/400001-401000/400201-400300/400286/product_v1_x2.jpg",
+    "brand": "Puori",
+    "price": "249,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hjerne ", " Hukommelse"],
+    "link": "https://www.matas.dk/omega-3-o3-pouri-120-kap"
+  },
+  {
+    "id": 621177,
+    "name": "Hyben Vital Lito® Hyben 300 g",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/229001-230000/229601-229700/229659/product_v1_x2.jpg",
+    "brand": "Hyben Vital",
+    "price": "229,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Hyben"],
+    "link": "https://www.matas.dk/hyben-vital-lito-hyben-300-gr"
+  },
+  {
+    "id": 761282,
+    "name": "Matas Striber Beta Caroten 2,2 mg 100 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592201-592300/592272/product_v1_x2.jpg",
+    "brand": "Matas Striber",
+    "price": "62,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Betacaroten"],
+    "link": "https://www.matas.dk/matas-striber-beta-caroten-22-mg-100-tabl"
+  },
+  {
+    "id": 575115,
+    "name": "Salus Floradix Krauterblut 50 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/589001-590000/589601-589700/589613/product_v1_x2.jpg",
+    "brand": "Salus",
+    "price": "229,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Jern"],
+    "link": "https://www.matas.dk/floradix-krauterblut-urte-jern-tabletter-50-tab"
+  },
+  {
+    "id": 583703,
+    "name": "Solaray All Omega 3-6-9 90 kaps.",
+    "image": "https://images.matas.dk/encode/076280343595.jpg",
+    "brand": "Solaray",
+    "price": "189,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Andre kosttilskudsolier", "Omega Kombinationer"],
+    "link": "https://www.matas.dk/all-omega-3-6-9-90-kap"
+  },
+  {
+    "id": 576918,
+    "name": "Berthelsen Naturlig Jern 90 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/394001-395000/394801-394900/394801/product_v1_x2.jpg",
+    "brand": "Berthelsen",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Jern"],
+    "link": "https://www.matas.dk/jern-med-c-berthelsen-90-tab"
+  },
+  {
+    "id": 792451,
+    "name": "Möllers Tran Trankapsler 150 kaps",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/679001-680000/679301-679400/679314/product_v1_x2.jpg",
+    "brand": "Möllers Tran",
+    "price": "119,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/mollers-tran-trankapsler-150-kaps"
+  },
+  {
+    "id": 567266,
+    "name": "Chlorella - Den grønne perle Ø 640 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/590001-591000/590701-590800/590799/product_v1_x2.jpg",
+    "brand": "Chlorella",
+    "price": "399,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Chlorella"],
+    "link": "https://www.matas.dk/chlorella-den-groenne-perle-640-tab"
+  },
+  {
+    "id": 590569,
+    "name": "Biosym Osteoform 360 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/623001-624000/623301-623400/623328/product_v1_x2.jpg",
+    "brand": "Biosym",
+    "price": "309 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/osteoform-m-calcium-magnesium-d-vita-360-tab"
+  },
+  {
+    "id": 796411,
+    "name": "Solaray Omega 3 60 Kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/680001-681000/680301-680400/680334/product_v1_x2.jpg",
+    "brand": "Solaray",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/solaray-omega-3-60-kaps"
+  },
+  {
+    "id": 817385,
+    "name": "VitaYummy Vitamin D3 60 stk.",
+    "image": "https://images.matas.dk/encode/817385_20231024194623.jpg",
+    "brand": "VitaYummy",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/vitayummy-vitamin-d3-60-stk"
+  },
+  {
+    "id": 769257,
+    "name": "Livol Multivitamin Gravid 150 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/525001-526000/525401-525500/525496/product_v1_x2.jpg",
+    "brand": "Livol",
+    "price": "114,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Vitaminer til gravide"],
+    "link": "https://www.matas.dk/livol-multivitamin-gravid-150-tabl"
+  },
+  {
+    "id": 796386,
+    "name": "Multi-tabs Complet kapsler med omega-3 90 stk",
+    "image": "https://images.matas.dk/encode/5054563124906_1.jpg",
+    "brand": "Multi-tabs",
+    "price": "178,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/multi-tabs-complet-kapsler-med-omega-3-90-stk"
+  },
+  {
+    "id": 621425,
+    "name": "Fitness Pharma Omega 3-6-9 med vitamin 180 kaps",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/249001-250000/249401-249500/249496/product_v1_x2.jpg",
+    "brand": "Fitness Pharma",
+    "price": "134,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Andre kosttilskudsolier", "Omega Kombinationer"],
+    "link": "https://www.matas.dk/omega-3-6-9-m-adek-vit-fitness-pharma-180-kap"
+  },
+  {
+    "id": 784359,
+    "name": "Gerimax Everyday Energy 150 stk.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/631001-632000/631501-631600/631534/product_v1_x2.jpg",
+    "brand": "Gerimax",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Energi", "Øvrige"],
+    "link": "https://www.matas.dk/gerimax-everyday-energy-150-stk"
+  },
+  {
+    "id": 778620,
+    "name": "Plantforce Omega 3 Vegansk 120 kaps.",
+    "image": "https://images.matas.dk/encode/778620.jpg",
+    "brand": "Plantforce",
+    "price": "255,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Fiskeolie & Omega 3"],
+    "link": "https://www.matas.dk/plantforce-omega-3-vegansk-epa-dha-120-softgels-100-softgels"
+  },
+  {
+    "id": 792611,
+    "name": "Vild Nord Hydro Lab Collagen C+ Capsules 120  kaps",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/745001-746000/745001-745100/745019/product_v1_x2.jpg",
+    "brand": "Vild Nord",
+    "price": "279,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen", "Kollagenpiller"],
+    "link": "https://www.matas.dk/vild-nord-hydro-lab-collagen-c-capsules-120-kaps"
+  },
+  {
+    "id": 818396,
+    "name": "Nupo Slim Boost Fat Fighter 30 kaps",
+    "image": "https://images.matas.dk/encode/818396.jpg",
+    "brand": "Nupo",
+    "price": "104,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Slankekosttilskud"],
+    "link": "https://www.matas.dk/nupo-slim-boost-fat-fighter-30-kaps"
+  },
+  {
+    "id": 693743,
+    "name": "Bidro Ledflex 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/565001-566000/565601-565700/565642/product_v1_x2.jpg",
+    "brand": "Bidro",
+    "price": "479,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Ingefær"],
+    "link": "https://www.matas.dk/ledflex-120-kap"
+  },
+  {
+    "id": 583752,
+    "name": "Biosym Symbioflor+ 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/640001-641000/640501-640600/640517/product_v1_x2.jpg",
+    "brand": "Biosym",
+    "price": "119,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/symbioflor-60-kap"
+  },
+  {
+    "id": 760458,
+    "name": "Vild Nord Collagen BEAUTY REMEDY 315 g",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/745001-746000/745001-745100/745009/product_v1_x2.jpg",
+    "brand": "Vild Nord",
+    "price": "649,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Knogler, Led & Muskler"],
+    "link": "https://www.matas.dk/vild-nord-collagen-beauty-remedy-315g"
+  },
+  {
+    "id": 590545,
+    "name": "Lactiplus Mælkesyrebakterier 120 kaps",
+    "image": "https://images.matas.dk/encode/590545.jpg",
+    "brand": "Lactiplus",
+    "price": "309,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/lactiplus-maelkesyrebakterier-120-kaps"
+  },
+  {
+    "id": 590581,
+    "name": "Medic Wiotech Ester C  500 mg 60 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/273001-274000/273701-273800/273766/product_v1_x2.jpg",
+    "brand": "Medic Wiotech",
+    "price": "129,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "C-vitamin"],
+    "link": "https://www.matas.dk/ester-c-vitamin-500-mg-60-tab"
+  },
+  {
+    "id": 796389,
+    "name": "Multi-tabs Woman tabletter 60 stk",
+    "image": "https://images.matas.dk/encode/5054563127846_1.jpg",
+    "brand": "Multi-tabs",
+    "price": "93,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Kosttilskud til kvinder"],
+    "link": "https://www.matas.dk/multi-tabs-woman-tabletter-60-stk"
+  },
+  {
+    "id": 729217,
+    "name": "Oil of Life Kæmpenatlysolie 90 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/520001-521000/520801-520900/520804/product_v1_x2.jpg",
+    "brand": "Oil of Life",
+    "price": "140 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Andre kosttilskudsolier", "Øvrige olier"],
+    "link": "https://www.matas.dk/oil-of-life-kaempenatlysolie-90-kaps"
+  },
+  {
+    "id": 590583,
+    "name": "Solaray SpektroVEG 120 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/502001-503000/502901-503000/502974/product_v1_x2.jpg",
+    "brand": "Solaray",
+    "price": "259,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/spektro-veg-120-kap"
+  },
+  {
+    "id": 785270,
+    "name": "Eskio-3 Kids Omega 3 Vitamin D Appelsin 27 stk.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/612001-613000/612001-612100/612040/product_v1_x2.jpg",
+    "brand": "Eskio-3",
+    "price": "124,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Børnevitaminer", "D-vitamin til børn"],
+    "link": "https://www.matas.dk/eskio-3-kids-chewabled-27-stk"
+  },
+  {
+    "id": 806950,
+    "name": "Nani Multivitamin Food State 150 kaps",
+    "image": "https://images.matas.dk/encode/5713258054170.jpg",
+    "brand": "Nani",
+    "price": "399,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/nani-multivitamin-food-state-150-kaps"
+  },
+  {
+    "id": 752857,
+    "name": "Nani Præ + Probiotika 60 kaps.",
+    "image": "https://images.matas.dk/encode/5713258054354.jpg",
+    "brand": "Nani",
+    "price": "289,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/prae-probiotika---nani-60-kap"
+  },
+  {
+    "id": 749853,
+    "name": "Smuuk smuuk SKIN HairBooster 180 tabl.",
+    "image": "https://images.matas.dk/encode/749853.jpg",
+    "brand": "Smuuk",
+    "price": "274,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Hud, Hår & Negle", "Kosttilskud til håret"],
+    "link": "https://www.matas.dk/smuuk-smuuk-skin-hairbooster-180-tabl"
+  },
+  {
+    "id": 797588,
+    "name": "Camette Perikon Hypericum 350 Mg 90 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/685001-686000/685001-685100/685076/product_v1_x2.jpg",
+    "brand": "Camette",
+    "price": "129,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud"],
+    "link": "https://www.matas.dk/camette-perikon-hypericum-350-mg"
+  },
+  {
+    "id": 787462,
+    "name": "Matas Striber Baldrian 200 kaps.",
+    "image": "https://images.matas.dk/encode/787462.jpg",
+    "brand": "Matas Striber",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Baldrian"],
+    "link": "https://www.matas.dk/matas-striber-baldrian-200-kaps_787462"
+  },
+  {
+    "id": 761826,
+    "name": "Solaray Cal-Mag Citrat med vitamin D og K2 150 kaps.",
+    "image": "https://images.matas.dk/encode/076280424362.jpg",
+    "brand": "Solaray",
+    "price": "234,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "D-vitamin"],
+    "link": "https://www.matas.dk/solaray-cal-mag-citrat-med-vitamin-d-og-k2-150-kaps"
+  },
+  {
+    "id": 593120,
+    "name": "Solaray Spektro Multi-Vita-Min u/ jern og K Vitamin 300 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/522001-523000/522801-522900/522865/product_v1_x2.jpg",
+    "brand": "Solaray",
+    "price": "549,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Vitaminer", "Multivitaminer"],
+    "link": "https://www.matas.dk/spektro-multi-vita-min-uden-jern-og-vit-300-kap"
+  },
+  {
+    "id": 561423,
+    "name": "Kyolic 1 om Dagen 100+10 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/339001-340000/339101-339200/339190/product_v1_x2.jpg",
+    "brand": "Kyolic",
+    "price": "279,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Hvidløg"],
+    "link": "https://www.matas.dk/kyolic-1-om-dagen-10010-kap-110-kap"
+  },
+  {
+    "id": 683424,
+    "name": "A.Vogel Menosan 90 tabl.",
+    "image": "https://images.matas.dk/encode/683424.jpg",
+    "brand": "A.Vogel",
+    "price": "419,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Menstruation"],
+    "link": "https://www.matas.dk/menosan-saviforce-90-tabl"
+  },
+  {
+    "id": 680681,
+    "name": "Berthelsen Scanalka Mineraler 500 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/311001-312000/311701-311800/311791/product_v1_x2.jpg",
+    "brand": "Berthelsen",
+    "price": "219,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Multimineraler"],
+    "link": "https://www.matas.dk/scanalka-mineraler-500-tab"
+  },
+  {
+    "id": 653710,
+    "name": "Salus Magnesium 500 ml",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/589001-590000/589601-589700/589655/product_v1_x2.jpg",
+    "brand": "Salus",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Mineraler", "Magnesium"],
+    "link": "https://www.matas.dk/salus-magnesium-500ml"
+  },
+  {
+    "id": 592479,
+    "name": "Fitness Pharma Q10 100 mg 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/200001-300000/214001-215000/214701-214800/214769/product_v1_x2.jpg",
+    "brand": "Fitness Pharma",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Q10"],
+    "link": "https://www.matas.dk/q10-100-mg-fitness-pharma-60-kap"
+  },
+  {
+    "id": 811809,
+    "name": "VitaYummy Collagen Cherry 60 stk.",
+    "image": "https://images.matas.dk/encode/811809_20231024194657.jpg",
+    "brand": "VitaYummy",
+    "price": "169,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Kollagen"],
+    "link": "https://www.matas.dk/vitayummy-collagen-cherry-60-stk"
+  },
+  {
+    "id": 809063,
+    "name": "Longo Vital Menopause 60 stk",
+    "image": "https://images.matas.dk/encode/809063.jpg",
+    "brand": "Longo Vital",
+    "price": "159,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Overgangsalder"],
+    "link": "https://www.matas.dk/longo-vital-menopause-60-stk"
+  },
+  {
+    "id": 799184,
+    "name": "VitaCare Tranebær økonomipakke 60 stk",
+    "image": "https://images.matas.dk/Assets_v3/700001-800000/701001-702000/701801-701900/701808/product_v1_x2.jpg",
+    "brand": "VitaCare",
+    "price": "199,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Tranebær"],
+    "link": "https://www.matas.dk/vitacare-tranebaer-oekonomipakke-60-stk"
+  },
+  {
+    "id": 788319,
+    "name": "Bio-Kult Mælkesyrebakterier 120 kaps",
+    "image": "https://images.matas.dk/encode/788319.jpg",
+    "brand": "Bio-Kult",
+    "price": "409,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/bio-kult"
+  },
+  {
+    "id": 651202,
+    "name": "Mezina Roseberry 180 tabl.",
+    "image": "https://images.matas.dk/Assets_v3/500001-600000/589001-590000/589601-589700/589651/product_v1_x2.jpg",
+    "brand": "Mezina",
+    "price": "329,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Tranebær"],
+    "link": "https://www.matas.dk/roseberry-180-tab"
+  },
+  {
+    "id": 920603,
+    "name": "Udo's Choice Super Infant fra fødslen til 4+ 75 g",
+    "image": "https://images.matas.dk/encode/920603.jpg",
+    "brand": "Udo's Choice",
+    "price": "299,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/udos-choice-super-infant-fra-foedslen-til-4-75-g"
+  },
+  {
+    "id": 672385,
+    "name": "Melbrozan Melbozan Plus 60 kapsler 60 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/331001-332000/331601-331700/331639/product_v1_x2.jpg",
+    "brand": "Melbrozan",
+    "price": "349,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Rødkløver"],
+    "link": "https://www.matas.dk/melbozan-plus-60-kapsler"
+  },
+  {
+    "id": 920537,
+    "name": "NDS Probiotic Classic 10 200 g",
+    "image": "https://images.matas.dk/Assets_v3/300001-400000/377001-378000/377001-377100/377029/product_v1_x2.jpg",
+    "brand": "NDS",
+    "price": "329,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Ingredienser", "Mælkesyrebakterier"],
+    "link": "https://www.matas.dk/nds-probiotic-classic-10-200-g"
+  },
+  {
+    "id": 705434,
+    "name": "Femarelle Rejuvenate 56 kaps.",
+    "image": "https://images.matas.dk/Assets_v3/600001-700000/680001-681000/680301-680400/680347/product_v1_x2.jpg",
+    "brand": "Femarelle",
+    "price": "289,95 kr.",
+    "categories": ["Helse & Velvære", "Kosttilskud", "Shop efter behov", "Kosttilskud til kvinder"],
+    "link": "https://www.matas.dk/femarelle-rejuvenate-56-kaps"
+  }
+]

@@ -17,31 +17,25 @@ export default function QuizWrapper() {
     }, []);
   console.log(productData);
   useEffect(()=>{
-    function getUniqueFilters() {
-      let filterArray = [];
-      for (let i = 0; i < 5; i++) {
-        let categoryArray = [];
-        productData.forEach((item) => categoryArray.push(item.categories[i]));
-        let uniqueCategories = [...new Set(categoryArray)];
-        let questionObject={
-          question: `catagory ${i}`,
-          options: uniqueCategories
-        }
-        filterArray.push(questionObject);
-      }
-    setFilterStrings(filterArray)
-      return filterArray;
-    }
+      const getUniqueFilters = async () => {
+        return await fetch("/data/categoryStrings.json")
+          .then((res) => res.json())
+          .then((data) => {
+            setFilterStrings(data);
+            return data;
+          });
+      };
+    
    console.log("function",getUniqueFilters()) 
   },[productData])
-  console.log(filterStrings)
+  console.log(categoryNumber,filterStrings[categoryNumber])
   return (
     <section>
       <div>
         <p></p>
       </div>
       <div>
-        {filterStrings.map((item) =>{return(<QuizButton key={item.id*Math.random()} name={item.options[categoryNumber]} onclick={1}/>)})}
+        {productData.map((item) =>{return(<QuizButton key={Math.random()} name={item.name} onclick={()=>setCategoryNumber(categoryNumber + 1)}/>)})}
       </div>
     </section>
   );
